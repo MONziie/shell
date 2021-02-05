@@ -1,0 +1,2 @@
+# shell
+notes for shell
